@@ -1,0 +1,49 @@
+{
+  "name": "isms-ph-api",
+  "version": "1.0.0",
+  "description": "iSMS Philippines API wrapper for Node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imjeffparedes/isms-ph-api.git"
+  },
+  "keywords": [
+    "isms",
+    "sms",
+    "api",
+    "wrapper",
+    "philippines"
+  ],
+  "author": "Jeff Paredes <imjeffparedes@gmail.com> (https://github.com/imjeffparedes)",
+  "contributors": [
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imjeffparedes/isms-ph-api/issues"
+  },
+  "homepage": "https://github.com/imjeffparedes/isms-ph-api#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "blah": {
+    "description": "The [isms.io API Reference](https://isms.co/docs) is a good resource to learn more about these APIs."
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
+}
