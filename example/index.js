@@ -4,17 +4,15 @@
 const ISMSPH = require("../lib");
 
 var client = new ISMSPH({
-    username: process.env.ISMS_USERNAME,
-    password: process.env.ISMS_PASSWORD
-    // This is optional
-  , host: process.env.ISMS_HOST || "https://www.isms.com.my/"
+    username: 'jeffcomgtech',
+    password: 'p@$$w0rd'
 });
 
 
 client.sendMessage({
-        dstno: '639012345678',
+        dstno: '+639054044313',
         msg: 'Hello World',
-        sendid: 'MyId',
+        sendid: 'Loadwallet',
         agreedterm: 'YES',
         type: 1
     }, (err, data) => {

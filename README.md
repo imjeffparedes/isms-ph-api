@@ -3,7 +3,7 @@
 
 # iSMS Philippines API
 
- [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/imjeffparedes/ama) [![Version](https://img.shields.io/npm/v/karix-api.svg)](https://www.npmjs.com/package/karix-api) [![Downloads](https://img.shields.io/npm/dt/karix-api.svg)](https://www.npmjs.com/package/karix-api) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/jeffparedes?utm_source=github&utm_medium=button&utm_term=imjeffparedes&utm_campaign=github)
+ [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/imjeffparedes/ama) [![Version](https://img.shields.io/npm/v/isms-ph-api.svg)](https://www.npmjs.com/package/isms-ph-api) [![Downloads](https://img.shields.io/npm/dt/isms-ph-api.svg)](https://www.npmjs.com/package/isms-ph-api) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/jeffparedes?utm_source=github&utm_medium=button&utm_term=imjeffparedes&utm_campaign=github)
 
 
 > iSMS Philippines API wrapper for Node.js

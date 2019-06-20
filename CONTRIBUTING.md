@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/imjeffparedes/karix-api-v2/issues
+[1]: https://github.com/imjeffparedes/isms-ph-api/issues
 
 [2]: https://github.com/imjeffparedes/code-style
