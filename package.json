@@ -1,6 +1,6 @@
 {
   "name": "isms-ph-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "iSMS Philippines API wrapper for Node.js",
   "main": "lib/index.js",
   "scripts": {
